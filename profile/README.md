@@ -24,9 +24,9 @@
 </p>
 
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#resources">Resources</a> •
-  <a href="#call-to-action">Call to Action</a>
+  <a href="#-about">About</a> •
+  <a href="#-resources">Resources</a> •
+  <a href="#-call-to-action">Call to Action</a>
 </p>
 
 ## 🚀 About
