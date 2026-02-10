@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="#-about">About</a> •
-  <a href="#-resources">Resources</a> •
+  <a href="#-content">Content</a> •
   <a href="#-call-to-action">Call to Action</a>
 </p>
 
@@ -46,17 +46,10 @@ We aim to:
 
 ---
 
-## 📍 Resources
+## 📍 Content
 
-This GitHub organization hosts resources that support pharmaceutical data science education and collaboration, including:
+This GitHub organization hosts research projects in pharmaceutical data science.
 
-- **Teaching materials** – examples, templates, and code to support modern data science teaching in pharma  
-- **Open educational resources** – external notebooks, exercises, and demo projects  
-
-We are continuously growing this organization with resources for pharmaceutical data science.  
-Stay tuned as we add new repositories, teaching modules, and example projects.
-
----
 
 ## 📢 Call to Action
 
