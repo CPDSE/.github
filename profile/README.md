@@ -2,6 +2,8 @@
   <br>
   <img src="https://cpdse.dk/wp-content/uploads/2025/07/image-8.png" alt="CPDSE Logo" width="300">
   <br>
+     <img src="https://img.shields.io/badge/Research-darkgreen?style=flat-square&logo=google-scholar" alt="Research">
+  <br>
   CPDSE – Center for Pharmaceutical Data Science Education
   <br>
 </h1>
